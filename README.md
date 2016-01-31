@@ -1,5 +1,5 @@
 # Elm-tutorial
-A introductory tutorial for working with elm - [Read the post](blog.chris-eich.com/tutorial-dom-manipulation-with-elm)
+A introductory tutorial for working with elm - [Read the post](http://chris-eich.com/tutorial-dom-manipulation-with-elm)
 
 # #theNewHotness
 I've been hearing about the awesomeness of elm for a little while now. It's a _strongly typed_ _functional language_ written for crafting user interfaces that compiles into javascript. It also has a _virtual-dom_ implementation that claims to be __faster than react__.
